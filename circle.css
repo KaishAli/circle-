@@ -1,0 +1,20 @@
+body{
+
+    background-color: #ec1e40;
+}
+.fig1{
+
+}
+div{
+    margin: 40px 0 0 650px;
+    height: 00px;
+    width:0px;
+    border-style: solid;
+    border-width: 100px;
+    border-radius: 50%;
+    border-top-color: #51b5a9;
+    border-left-color: #e4ce25;
+    border-right-color: #ffc20a;
+    border-bottom-color: transparent;
+} 
+
